@@ -9,7 +9,7 @@ docker run -d --restart unless-stopped -p 8084:80 hacknow_uz
 
 ### Nginx
 ```
-sudo nano /etc/nginx/sites-available/u2s.uz
+sudo nano /etc/nginx/sites-available/hacknow.uz
 ```
 
 ```
